@@ -2,8 +2,8 @@
 
 const PostsPage = () => {
   return (
-    <div>
-
+    <div className="container my-5">
+      <h1 className="text-center">Posts</h1>
     </div>
   )
 }

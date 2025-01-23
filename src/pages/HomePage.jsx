@@ -2,8 +2,8 @@
 
 const HomePage = () => {
   return (
-    <div>
-
+    <div className="container my-5">
+      <h1 className="text-center">Home</h1>
     </div>
   )
 }
