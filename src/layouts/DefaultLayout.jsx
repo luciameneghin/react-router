@@ -11,7 +11,7 @@ const DefaultLayout = () => {
         <Outlet />
       </main>
       <footer>
-        <div className="container text-center">
+        <div className="container d-flex align-items-end justify-content-center">
           <p>Copyright®</p>
         </div>
       </footer>
